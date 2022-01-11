@@ -1,0 +1,29 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "webserver com nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazaelk/Webserver_with_Nodejs.git"
+  },
+  "keywords": [
+    "webserver",
+    "nodejs",
+    "node"
+  ],
+  "author": "Willian Santana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hazaelk/Webserver_with_Nodejs/issues"
+  },
+  "homepage": "https://github.com/hazaelk/Webserver_with_Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fast-csv": "^4.3.6",
+    "vue": "^2.6.14"
+  }
+}

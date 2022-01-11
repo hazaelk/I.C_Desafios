@@ -1,0 +1,23 @@
+Há duas variáveis de mesmo nome chamado "srcRelativo" 
+nela é onde estará localizada esta pasta após descompactar:
+
+    No desafio 1
+    {
+        Lib: Selenium
+        Browser: Chrome, 
+            Versão estável 96.0.4664.110 (Compilação oficial) (64 bits)
+            com seu respectivo Driver Chrome.
+        PS: O tempo no sleep varia de acordo com a internet.
+    }
+
+    No desafio 2
+    {
+        Libs: Tabula //Leitura pdf's
+              Pandas //Dataframes
+              Zipfile //Zipar
+    }
+
+    No desafio 3
+    {
+        Todos os arquivos localizados em ( Teste_Nivelamento_I.C/files/desafio3_arquivos )
+    }
